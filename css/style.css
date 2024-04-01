@@ -60,7 +60,7 @@ img {
 #hero{
     height: 600px;
     filter: grayscale(70%);
-    background-image:url(/images/hands-typing.jpg);
+    background-image:url(../images/hands-typing.jpg);
     background-size: cover;
     background-position: center;
 
